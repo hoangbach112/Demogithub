@@ -1,0 +1,15 @@
+2. tạo project với git 
+- Clone 1 project có sẵn 
+=> git clone link_https
+
+Tạo 1 project trên github 
+1. tạo 1 github repository (folder) - nơi chứa code clone project 
+
+2. clone project này : git clone link_your_repo
+
+3.  Viet code 
+
+git status ( kiểm tra trạng thái files ) 
+git add . ( thêm file ) 
+git commit -m "your message" ( tạo nội dung commit ) 
+git push origin main  
