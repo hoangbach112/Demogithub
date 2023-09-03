@@ -1,4 +1,4 @@
-2. tạo project với git 
+2. tải project với git 
 - Clone 1 project có sẵn 
 => git clone link_https
 
@@ -13,3 +13,14 @@ git status ( kiểm tra trạng thái files )
 git add . ( thêm file ) 
 git commit -m "your message" ( tạo nội dung commit ) 
 git push origin main  
+
+
+
+Tạo project local và đẩy lên github 
+1 tạo 1 github repo 
+2 git init 
+3 viet code 
+git status 
+git add
+git commit -m "your message"
+git remote add origin https://github.com/hoangbach112/demoPush1.git
